@@ -1,7 +1,7 @@
 # 🚖 NYC Taxi Data Pipeline: Medallion Architecture
 
 ## 📌 Project Overview
-This project demonstrates an end-to-end Data Engineering ETL pipeline using Databricks, Apache Spark, and Delta Lake. The pipeline processes raw New York City Taxi data to analyze peak hours and calculate average fares, providing actionable insights for driver scheduling.
+This project demonstrates an end-to-end Data Engineering ETL pipeline using Databricks, Apache Spark, and Delta Lake. The pipeline processes raw New York City Taxi data to analyze suspicious fare and calculate average fares.
 
 ## 🏗️ Architecture (Medallion Pattern)
 The pipeline is designed using the Medallion Architecture to progressively clean and aggregate data:
